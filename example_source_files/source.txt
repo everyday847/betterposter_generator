@@ -1,0 +1,14 @@
+L /home/andy/Dropbox/Deck/SWM_Method.png
+L /home/andy/Dropbox/Deck/SWM_Method.txt
+L /home/andy/Dropbox/Deck/SWM_Zika.png
+L /home/andy/Dropbox/Deck/SWM_Zika.txt
+L /home/andy/Dropbox/Deck/All_Puzzles.png
+L /home/andy/Dropbox/Deck/All_Puzzles.txt
+#L /home/andy/Dropbox/Deck/why_rewire_PTC.png
+R /home/andy/Dropbox/Deck/Loops.png
+R /home/andy/Dropbox/Deck/Loops.txt
+R /home/andy/Dropbox/Deck/3WJ.png
+R /home/andy/Dropbox/Deck/3WJ.txt
+R /home/andy/Dropbox/Deck/Strip_Plot_FARFAR2_Puzzles.png
+R /home/andy/Dropbox/Deck/Strip_Plot_FARFAR2_Puzzles.txt
+
